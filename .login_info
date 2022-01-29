@@ -1,7 +1,7 @@
-connect vpn.comsci.liberty.edu
+connect <ENTER VPN URL HERE>
 y 
-bdpyle
-GR9zjnZ3Cg!22
+<ENTER USERNAME HERE>
+<ENTER PASSWORD HERE>
 
 
 
