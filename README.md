@@ -2,7 +2,7 @@
 ### Use this repository to create a script that will automatically connect to a vpn that uses Cisco Anyconnect
 
 ### Follow these steps to get started:
-1. Download the files in this reposityory to your home directory
+1. Download the files in this repository to your home directory
 2. Edit the .login_details file and add the url, username, and password for your desired VPN
 3. Next, type the command `nano ~/.bashrc` and add the follwoing lines in a convenient location:
     * `alias startvpn="bash vpn_script.sh"`
