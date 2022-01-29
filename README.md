@@ -8,4 +8,4 @@
     * `alias startvpn="bash vpn_script.sh"`
     * `alias stopvpn="bash vpn_script_disconnect.sh"`
 4. Now, to start your vpn, just type `startvpn` in your terminal while you are in your home directory
-5. TO disconnect, type `stopvpn`.
+5. To disconnect, type `stopvpn`.
